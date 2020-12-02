@@ -14,3 +14,24 @@ body{
     height: 1px;
     background-image: linear-gradient(to right, rgba(92, 101, 104, 0), rgba(92,101,104,0.75), rgba(92,101,104,0));
 }
+
+.alt-background {
+    background-color: #53E6AB;
+}
+
+.social-icons{
+    font-size: 3rem;
+    padding-right: 50px;
+}
+
+.facebook{
+    color: #1877f2;
+}
+
+.linkedIn{
+    color: #0073b1;
+}
+
+.pinterest{
+    color: #e60023;
+}
