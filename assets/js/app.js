@@ -18,7 +18,7 @@ selection.addEventListener("change", e => {
     } else if (selectChoice === "opt5") {
         imgChange.src = "assets/images/myBitmoji.jpg";
     } else if (selectChoice === "opt6") {
-        imgChange.src = "assets/images/mySouthPark.jpg";
+        imgChange.src = "assets/images/mySouthpark.jpg";
     } else {
         imgChange.src = "assets/images/myHeadshot.jpg"
     }
